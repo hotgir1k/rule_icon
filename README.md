@@ -1,1 +1,1 @@
-# Stash-Policy-Group-Icon
+# Stash Policy Group Icon
